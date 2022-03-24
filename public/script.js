@@ -1,5 +1,6 @@
-import Toast from './Toast.js';
+import { Toast } from '../package/Toast.js';
 
+console.log(Toast);
 
 document.querySelector('button').addEventListener('click', () => {
    new Toast({

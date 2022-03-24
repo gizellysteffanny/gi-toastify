@@ -8,7 +8,7 @@ const DEFAULT_OPTIONS = {
    pauseOnFocusLoss: true,
 };
 
-export default class Toast {
+export class Toast {
    #toastElem;
    #progressInterval;
    #autoCloseInterval;

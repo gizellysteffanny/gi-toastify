@@ -1,0 +1,10 @@
+{
+  "name": "gi-toastify",
+  "version": "1.0.0",
+  "description": "A lightweight and easy notification library 🔔",
+  "main": "index.js",
+  "repository": "https://github.com/gizellysteffanny/gi-toastify.git",
+  "author": "Gizelly Steffanny <gizellysteffanny@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
